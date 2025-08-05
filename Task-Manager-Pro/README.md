@@ -22,8 +22,13 @@ screenshots/
 
 🖼️ Screenshot
 
+<<<<<<< HEAD
 ![UI Preview](screenshots/ui-preview_1.png)
 ![UI Preview](screenshots/ui-preview_2.png)
+=======
+![UI Preview](Screenshots/ui-preview_1.png)
+![UI Preview](Screenshots/ui-preview_2.png)
+>>>>>>> a72879d (Added Task Manager Pro project)
 
 📌 Tech Used
 
